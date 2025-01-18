@@ -5,7 +5,7 @@ import MovieCard from './components/MovieCard';
 import Home from './pages/Home';
 import Favorites from './pages/Favorites'
 import { Routes,Route } from 'react-router-dom';
-import NavBar from './components/navbar';
+import NavBar from './components/NavBar';
 import SearchResults from './pages/SearchResults';
 import { MovieProvider } from './contexts/FavoriteContext';
 function App() {
